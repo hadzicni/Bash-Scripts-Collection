@@ -3,7 +3,7 @@
 A curated collection of useful **Bash scripts** for Linux/macOS terminal workflows, system automation, and developer utilities. Whether you're scripting for DevOps, server management, or your own dotfiles — this collection offers reusable tools to boost your command-line productivity.
 
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 ![Language](https://img.shields.io/badge/language-Bash-blue)
 
 ---
